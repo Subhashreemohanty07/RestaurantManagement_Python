@@ -1,0 +1,2 @@
+220,Chicken rice 1,Mutton curry 1,
+175,Cold drinks 1,Chicken rice 1,

@@ -1,0 +1,9 @@
+no,dish,price
+1,Chicken rice,120
+2,Mutton rice,180
+3,Chicken curry,100
+4,Mutton curry,220
+5,Rasmalai,90
+6,Rabdi,85
+8,Cold drinks,35
+9,Rice,30
